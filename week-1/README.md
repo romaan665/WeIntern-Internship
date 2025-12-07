@@ -46,5 +46,7 @@ dataset.csv — The dataset used for training
 house_price_model.py — Python script for preprocessing, training, and evaluation
 
 🚀 How to Run
+
 pip install pandas numpy scikit-learn matplotlib
+
 python week1.py
