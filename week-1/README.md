@@ -1,36 +1,50 @@
-Week 1 – House Price Prediction (Regression Model)
 📌 Task Description
 
-Train a regression model to predict house prices using the Boston Housing dataset or a similar dataset from Kaggle.
+Build a regression model to predict house prices using the Boston Housing dataset or a similar dataset from Kaggle.
 
-Challenges:
+Challenges
 
-Feature scaling and encoding categorical data
+Perform feature scaling and encode categorical data
 
-Train/test split and model evaluation using RMSE or R²
+Split dataset into train/test sets
+
+Evaluate the model using RMSE and R²
 
 Visualize model performance and key features
 
-Tech Stack: Python, Pandas, NumPy, Scikit-learn, Matplotlib
+Tech Stack
 
-In this task, I built a machine learning pipeline to predict house prices using regression.
-The workflow includes:
+Python, Pandas, NumPy, Scikit-learn, Matplotlib
 
-Data loading and preprocessing
+🧠 Project Overview
 
-Handling missing values
+In this task, I developed a complete machine learning pipeline to predict house prices. The workflow includes:
 
-Feature scaling using StandardScaler
+Loading and exploring the dataset
 
-Model training using Linear Regression
+Handling missing or inconsistent values
 
-Evaluating performance with RMSE and R²
+Applying StandardScaler for feature scaling
 
-Visualizing correlations and prediction results 
+Training a Linear Regression model
+
+Evaluating performance using:
+
+Root Mean Squared Error (RMSE)
+
+R² Score
+
+Creating visualizations for:
+
+Actual vs Predicted values
 
 
-Files Included
+🗂️ Files Included
 
-dataset.csv – The dataset used for training
+dataset.csv — The dataset used for training
 
-house_price_model.py – The Python code for preprocessing, training, and evaluation
+house_price_model.py — Python script for preprocessing, training, and evaluation
+
+🚀 How to Run
+pip install pandas numpy scikit-learn matplotlib
+python week1.py
