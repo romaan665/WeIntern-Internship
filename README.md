@@ -5,7 +5,7 @@ Each week focuses on a new machine learning or data analysis challenge to build 
 
 ## 📌 Contents
 - **Week 1:** House Price Prediction (Regression Model)  
-- Week 2+: (To be added)
+- **Week 2:** Sentiment Analysis on Twitter Data 
 
 ## 🛠️ Tech Stack
 - Python
