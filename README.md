@@ -13,7 +13,8 @@ Each week focuses on a new machine learning or data analysis challenge to build 
 - NumPy
 - Scikit-learn
 - Matplotlib / Seaborn
-
+- NLTK
+- 
 ## 🎯 Purpose
 This repository documents my learning journey, weekly progress, and the skills I developed throughout the internship.
 
